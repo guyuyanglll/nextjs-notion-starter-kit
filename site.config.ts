@@ -17,9 +17,12 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  //github: 'transitive-bullshit',
+  //linkedin: 'fisch2',
+  Import "shanhai.lua"
+Dim 微信号id="guyuyanglll"
+ShanHai.execute ("am start -n 'com.tencent.mm/com.tencent.mm.ui.chatting.ChattingUI' -e 'Chat_User' "&微信号id)
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
